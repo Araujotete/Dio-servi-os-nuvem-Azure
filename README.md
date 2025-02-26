@@ -29,7 +29,6 @@ Os usuários se conectam e usam aplicativos com base em nuvem pela internet: por
 
 Modelo de responsabilidade compartilhada:
 
- 
-
+![image](https://github.com/user-attachments/assets/808bbe80-6be8-4a71-91c5-0e1da0055da8)
 
 
