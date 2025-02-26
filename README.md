@@ -1,4 +1,4 @@
-# Dio-servi-os-nuvem-Azure
+# Dio serviços da nuvem na Azure
 
 ## Resumo sobre os serviços de nuvem na Azure
 
